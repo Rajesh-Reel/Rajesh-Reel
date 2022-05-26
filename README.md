@@ -1,7 +1,7 @@
 ### 👋Welcome to my GitHub profile, I am Rajesh
-🌱 I am currently in a bootcamp with School of Code cohort 12
-👀 I am interested in furthering my knowledge in HTML, CSS, JS, node.js, PostgreSQL and others
-👯 This week with my pair partner we are deep diving into backend and databases
+-🌱 I am currently in a bootcamp with School of Code cohort 12
+-👀 I am interested in furthering my knowledge in HTML, CSS, JS, node.js, PostgreSQL and others
+-👯 This week with my pair partner we are deep diving into backend and databases
 
 <!--
 **Rajesh-Reel/Rajesh-Reel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
