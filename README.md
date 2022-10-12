@@ -11,9 +11,9 @@
 <div align="center">
 
 
-- 🌱 I am currently in a bootcamp with School of Code cohort 12
+- 🌱 I am a graduate from the School of Code cohort 12
 - 👀 I am interested in furthering my knowledge in HTML, CSS, JS, node.js, PostgreSQL, React and others
-- 👯 This month we are focusing on deployment, authentication, React and more...
+- 👯 I am looking to gain a junior software developer position within the tech industry and develop myself further
 
 ---
 
