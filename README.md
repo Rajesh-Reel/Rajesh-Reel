@@ -11,9 +11,7 @@
 <div align="center">
 
 
-- 🌱 I am a graduate from the School of Code cohort 12
-- 👀 I am interested in furthering my knowledge in HTML, CSS, JS, node.js, PostgreSQL, React and others
-- 👯 I am looking to gain a junior software developer position within the tech industry and develop myself further
+I am a graduate from the School of Code cohort 12, I am interested in furthering my knowledge in HTML, CSS, JS, Node.js, PostgreSQL, React and many others. I am looking to gain a junior software developer position within the tech industry and develop myself further.
 
 ---
 
